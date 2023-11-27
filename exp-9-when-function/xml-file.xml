@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl "href="/" ?>
+
+ <!-- Convert XML into HTML using WHEN function -->
+<people>
+  <person>
+    <name>First-name Last-name</name>
+    <age>29</age>
+  </person>
+  <person>
+    <name>First-name Last-name</name>
+    <age>15</age>
+  </person>
+</people>

@@ -1,0 +1,3 @@
+<!ELEMENT Employee1 (#PCDATA)>
+<!ELEMENT Employee2 (#PCDATA)>
+<!ELEMENT Employee3 (#PCDATA)>

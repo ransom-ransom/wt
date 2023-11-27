@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl "href="/" ?>
+
+<!-- study of XSLT and display content of XML -->
+
+<student>
+<s>
+ <Roll_No>1</Roll_No>
+ <name>First-name Last-name</name>
+ <branch>CST</branch>
+ <Score>35</Score>
+ <city>Kolhapur</city>
+ </s>
+ <s>
+ <Roll_No>2</Roll_No>
+ <name>First-name Last-name</name>
+ <branch>CST</branch>
+ <Score>100</Score>
+ <city>Kolhapur</city>
+ </s>
+</student>

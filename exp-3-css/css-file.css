@@ -1,0 +1,35 @@
+/* Container for each employee */
+employee {
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+    border: 2px solid #3498db; /* Dodger Blue */
+    border-radius: 10px;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+firstname {
+    color: #e74c3c; /* Alizarin Red */
+}
+
+lastname {
+    color: #2ecc71; /* Emerald Green */
+}
+
+empid {
+    display: block;
+    border: 2px solid #3498db; /* Dodger Blue */
+    padding: 10px;
+    margin-top: 10px;
+    background: #2c3e50; /* Midnight Blue */
+    color: #fff; /* White */
+    border-radius: 5px;
+}
+
+address,
+designation,
+salary {
+    display: block;
+    margin-top: 10px;
+}
+

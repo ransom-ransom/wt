@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="html/text/css"?>
+
+<!-- XML program using XML schema -->
+
+<bank xmlns:xsi="http://wwww.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="schema.xsd">
+<BankAccount>
+<Branch>Tokyo</Branch>
+<AccountNumber>987456123</AccountNumber>
+<AccountHolder>First-name Last-name</AccountHolder>
+<Balance>10000</Balance>
+</BankAccount>
+<BankAccount>
+<Branch>London</Branch>
+<AccountNumber>123456789</AccountNumber>
+<AccountHolder>First-name Last-Name</AccountHolder>
+<Balance>10000</Balance>
+</BankAccount>
+<BankAccount>
+<Branch>New York</Branch>
+<AccountNumber>12478564812</AccountNumber>
+<AccountHolder>First-name Last-name</AccountHolder>
+<Balance>1000</Balance>
+</BankAccount>
+</bank>

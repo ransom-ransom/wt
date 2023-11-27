@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text"?>
+
+ <!-- xml program for student information -->
+
+<DOT>
+<students>
+<student1>
+<id>Id : 100</id>
+<name>Name : Name 1</name>
+<age>Age : 21</age>
+<department>Department : Computer Scienece</department>
+<cgpa>CGPA : 8.0</cgpa>
+</student1>
+///\\\
+<student2>
+<id>Id : 102</id>
+<name>Name : Name 2</name>
+<age>Age : 21</age>    
+<department>Computer Scienece</department>
+<cgpa>CGPA : 9.0</cgpa>
+</student2>
+///\\\
+<student3>
+<id>Id : 103</id>
+<name>Name : Name 3</name>
+<age>Age : 21</age>
+<department>Department : Computer Science</department>
+<cgpa>CGPA : 9.0</cgpa>
+</student3>
+</students>
+</DOT>

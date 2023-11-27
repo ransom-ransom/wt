@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="css-file.css"?>
+
+<!-- xml program using css -->
+
+<employee>
+<name>
+Name : 
+<firstname>First-Name</firstname>
+<lastname>Last-Name</lastname>
+</name>
+<empid>Emp Id : 100</empid>
+<address>Address : XYZ</address>
+<designation>Role : Tech Lead </designation>
+<salary>Salary : 100000</salary>
+</employee>

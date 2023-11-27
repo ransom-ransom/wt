@@ -1,0 +1,27 @@
+<?xml version ="1.0"?>
+<?xml-stylesheet type="text"?>
+
+ <!-- Program for external dtd -->
+
+<!DOCTYPE Employees SYSTEM "employee.dtd">
+
+<Employees>
+ <Employee1>
+   <Emp-id>1</Emp-id>
+   <Name>Name 1</Name>
+   <Role>Developer</Role>
+ </Employee1>
+
+ <Employee2>
+   <Emp-id>2</Emp-id>
+   <Name>Name 2</Name>
+   <Role>Engineer</Role>
+ </Employee2>
+
+ <Employee3>
+   <Emp-id>3</Emp-id>
+   <Name>Name 3</Name>
+   <Role>Designer</Role>
+ </Employee3>
+
+</Employees> 

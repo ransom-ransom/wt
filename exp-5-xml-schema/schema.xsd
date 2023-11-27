@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2002/XMLSchema">
+<xs:element name="bank">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="BankAccount" minOccurs="1" maxOccurs="5"/>
+</xs:sequence>
+</xs:complexType>
+<xs:element>
+<xs:element name="BankAccount">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="Branch" type="xs:string"/>
+<xs:element name="AccountNumber" type="xs:integer"/>
+<xs:element name="AccountHolder" type="xs:string"/>
+<xs:element name="Balance" type="xs:decimal"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+</xs:schema>
